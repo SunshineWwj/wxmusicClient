@@ -1,0 +1,5 @@
+<!-- 引入自定义模板 -->
+<import src="/otherPackage/pages/myTemplete/myTemplete"/>
+
+<text>测试自定义模板</text>
+<template is='myTemp' data="{{...person}}"></template>

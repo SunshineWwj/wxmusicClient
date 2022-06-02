@@ -1,0 +1,102 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3392930 */
+  src: url('//at.alicdn.com/t/font_3392930_7cfircb2mnf.woff2?t=1654146971621') format('woff2'),
+       url('//at.alicdn.com/t/font_3392930_7cfircb2mnf.woff?t=1654146971621') format('woff'),
+       url('//at.alicdn.com/t/font_3392930_7cfircb2mnf.ttf?t=1654146971621') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shanchu:before {
+  content: "\e74b";
+}
+
+.icon-sousuo:before {
+  content: "\e64f";
+}
+
+.icon-sousuo1:before {
+  content: "\e603";
+}
+
+.icon-suijibofang:before {
+  content: "\ea75";
+}
+
+.icon-48shangyishou:before {
+  content: "\e610";
+}
+
+.icon-49xiayishou:before {
+  content: "\e611";
+}
+
+.icon-zanting:before {
+  content: "\e667";
+}
+
+.icon-24gl-playCircle:before {
+  content: "\ea6e";
+}
+
+.icon-24gf-playlistMusic4:before {
+  content: "\ea86";
+}
+
+.icon-31dianzan:before {
+  content: "\e600";
+}
+
+.icon-Androidgengduo_o:before {
+  content: "\eb76";
+}
+
+.icon-pinglun:before {
+  content: "\e60e";
+}
+
+.icon-dianzan:before {
+  content: "\e6af";
+}
+
+.icon-wodehaoyou:before {
+  content: "\e671";
+}
+
+.icon-gexingzhuangban:before {
+  content: "\e655";
+}
+
+.icon-xiaoxi:before {
+  content: "\e630";
+}
+
+.icon-gerenzhuye:before {
+  content: "\e645";
+}
+
+.icon-paixingbang:before {
+  content: "\e64b";
+}
+
+.icon-zhibo:before {
+  content: "\e7d5";
+}
+
+.icon-diantai:before {
+  content: "\e636";
+}
+
+.icon-gedan:before {
+  content: "\e637";
+}
+
+.icon-tuijian:before {
+  content: "\e629";
+}

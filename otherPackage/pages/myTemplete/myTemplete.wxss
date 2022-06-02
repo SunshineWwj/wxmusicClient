@@ -1,0 +1,8 @@
+/* pages/myTemplete/myTemplete.wxss */
+.myTemp{
+  margin: 20rpx;
+  border: 1px solid red;
+}
+.title{
+  color: red;
+}

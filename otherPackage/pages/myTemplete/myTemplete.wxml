@@ -1,0 +1,7 @@
+<template name='myTemp'>
+  <view class="myTemp">
+    <view class="title">我是自定义模板数据</view>
+    <view>{{username}}</view>
+    <text>{{age}}</text>
+  </view>
+</template>
